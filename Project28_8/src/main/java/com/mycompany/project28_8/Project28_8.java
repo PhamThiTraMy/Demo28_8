@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.project28_8;
+package com.mycompany.project28_8;git
 
 /**
  *
@@ -11,7 +11,7 @@ package com.mycompany.project28_8;
 public class Project28_8 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println(" World!");
         System.out.println("tramy");
     }
 }
