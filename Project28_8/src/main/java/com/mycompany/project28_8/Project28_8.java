@@ -12,6 +12,6 @@ public class Project28_8 {
 
     public static void main(String[] args) {
         System.out.println(" World!");
-        System.out.println("tramy");
+        System.out.println("tramy teacher");
     }
 }
